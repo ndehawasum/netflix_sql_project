@@ -153,7 +153,7 @@ WHERE director_name = 'Rajiv Chilaka';
 ```
 **Objective:** List all content directed by 'Rajiv Chilaka'.
 
-###8. List All TV Shows with More Than 5 Seasons
+### 8. List All TV Shows with More Than 5 Seasons
 
 ```sql
 
